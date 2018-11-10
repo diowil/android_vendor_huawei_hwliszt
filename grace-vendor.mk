@@ -13,6 +13,7 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
+    hw_healthd \
     oeminfo_nvm_server \
     teecd
 
