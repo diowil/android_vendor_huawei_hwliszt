@@ -13,4 +13,4 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-	$(call find-copy-subdir-files,*,vendor/huawei/grace/proprietary/,system/)
+	$(call find-copy-subdir-files,*,vendor/huawei/hwliszt/proprietary/,system/)
