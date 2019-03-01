@@ -17,4 +17,4 @@ PRODUCT_PACKAGES += \
     oeminfo_nvm_server \
     teecd
 
-$(call inherit-product, vendor/huawei/grace/grace-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/hwliszt/hwliszt-vendor-blobs.mk)
