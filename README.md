@@ -1,1 +1,1 @@
-# android_vendor_huawei_hwliszt
+# android_vendor_huawei_liszt
