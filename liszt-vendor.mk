@@ -17,4 +17,4 @@ PRODUCT_PACKAGES += \
     oeminfo_nvm_server \
     teecd
 
-$(call inherit-product, vendor/huawei/liszt/hwliszt-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/liszt/liszt-vendor-blobs.mk)
